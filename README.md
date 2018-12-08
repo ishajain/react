@@ -1,2 +1,2 @@
 # react
-This repository contains all the react learnings
+This repository contains all my react learnings
