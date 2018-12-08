@@ -1,0 +1,33 @@
+{
+  "name": "react-basics",
+  "version": "1.0.0",
+  "description": "All my react basic learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishajain/react.git"
+  },
+  "keywords": [
+    "react",
+    "basics"
+  ],
+  "author": "Isha Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ishajain/react/issues"
+  },
+  "homepage": "https://github.com/ishajain/react#readme",
+  "dependencies": {
+    "babel-loader": "^8.0.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "webpack": "^4.27.1",
+    "webpack-dev-server": "^3.1.10"
+  }
+}
